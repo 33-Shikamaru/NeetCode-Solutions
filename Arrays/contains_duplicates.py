@@ -1,3 +1,13 @@
+'''
+Problem: Contains Duplicate
+-------
+
+Given an integer array `nums`, return `true` if any value appears more
+once in the array, otherwise return `false`.
+
+-------
+URL: https://neetcode.io/problems/duplicate-integer?list=neetcode150
+'''
 
 def hasDuplicate(nums: list[int]) -> bool:
     # Get all unique values and compare the set size against the nums size
