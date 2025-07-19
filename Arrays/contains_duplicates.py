@@ -2,7 +2,7 @@
 def hasDuplicate(nums: list[int]) -> bool:
     # Get all unique values and compare the set size against the nums size
     # if both are same length, we know the values are unique
-    # 
+    
     seen = set(nums)
     return len(seen) != len(nums)
     
