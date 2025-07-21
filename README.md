@@ -8,8 +8,8 @@ This repository showcases my solutions in various programming languages such tha
 
 ## Topics Covered in Order
 
-- [ ] **Arrays** *(currently working on)*
-- [ ] Hashing
+- [x] Arrays
+- [ ] **Hashing** *(currently working on)*
 - [ ] Two Pointers
 - [ ] Stack
 - [ ] Binary Search
