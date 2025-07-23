@@ -9,8 +9,8 @@ This repository showcases my solutions in various programming languages such tha
 ## Topics Covered in Order
 
 - [x] Arrays
-- [ ] **Hashing** *(currently working on)*
-- [ ] Two Pointers
+- [x] Hashing
+- [ ] **Two Pointers** *(currently working on)*
 - [ ] Stack
 - [ ] Binary Search
 - [ ] Sliding Window
