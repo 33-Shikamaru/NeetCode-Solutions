@@ -10,10 +10,10 @@ This repository showcases my solutions in various programming languages such tha
 
 - [x] Arrays
 - [x] Hashing
-- [ ] **Two Pointers** *(currently working on)*
+- [x] Two Pointers
 - [ ] Stack
 - [ ] Binary Search
-- [ ] Sliding Window
+- [ ] **Sliding Window** *(currently working on)*
 - [ ] Linked List
 - [ ] Trees
 - [ ] Tries
