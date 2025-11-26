@@ -13,11 +13,11 @@ Both strings only contain lowercase letters.
 URL: https://neetcode.io/problems/buy-and-sell-crypto?list=neetcode150
 """
 
-def permutation_in_string(s1, s2):
+def permutation_in_string(s1, s2) -> bool:
     # We want to build a table of possible chars (a-z) and keep a count for each s1 and s2.
     # We initially build s1 entirely and only partially build s2 of size len(s1).
     # From this, we have created a sliding window of size len(s1) where we can slide as
-    # we iterate through s2, removing and adding chars to s2_char_count. If the two tables
+    # we iterate through s2, remving and adding chars to s2_char_count. If the two tables
     # ever equal, we know a permutation exists.
 
     if len(s1) > len(s2):
