@@ -10,10 +10,10 @@ if a permutation of `s1` exists as a substring of `s2`, then return `True`.
 Both strings only contain lowercase letters.
 
 -------
-URL: https://neetcode.io/problems/buy-and-sell-crypto?list=neetcode150
+URL: https://neetcode.io/problems/permutation-string/question?list=neetcode150
 """
 
-def permutation_in_string(s1, s2) -> bool:
+def permutation_in_string(s1 : str, s2 : str) -> bool:
     # We want to build a table of possible chars (a-z) and keep a count for each s1 and s2.
     # We initially build s1 entirely and only partially build s2 of size len(s1).
     # From this, we have created a sliding window of size len(s1) where we can slide as
