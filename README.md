@@ -13,8 +13,8 @@ This repository showcases my solutions in various programming languages such tha
 - [x] Two Pointers
 - [ ] Stack
 - [ ] Binary Search
-- [ ] **Sliding Window** *(currently working on)*
-- [ ] Linked List
+- [x] Sliding Window
+- [ ] **Linked List** *(currently working on)*
 - [ ] Trees
 - [ ] Tries
 - [ ] Backtracking
